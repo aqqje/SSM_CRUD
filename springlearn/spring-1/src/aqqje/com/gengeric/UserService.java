@@ -1,0 +1,1 @@
+/** * Copyright (c), 2018-2018, XXX有限公司 * FileName: UserService * Author:   Administrator * Date:     2018/5/720:00 * Description: * History: * <author>    <time>    <version>    <desc> * 作者姓名     修改时间      版本号       描述 */package aqqje.com.gengeric;import org.springframework.stereotype.Service;@Servicepublic class UserService extends BaseService {}

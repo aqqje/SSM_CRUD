@@ -1,0 +1,1 @@
+package aqqje.com.annatation;import org.springframework.stereotype.Component;@Componentpublic class TestObject {    public void test() {        System.out.println("TestObject: test....");    }}
